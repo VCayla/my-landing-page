@@ -1,0 +1,17 @@
+.tableau{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.tableau img{
+	width: 100%;
+}
+
+.tableau h3{
+	display: grid;
+	align-content: center;
+	text-align: center;
+	font-family: "Comfortaa", cursive;
+	margin: 20px;
+	color: whitesmoke;
+}
